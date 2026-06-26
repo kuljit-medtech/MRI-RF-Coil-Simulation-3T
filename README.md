@@ -164,5 +164,5 @@ Date: June 2026
 
 ## Author
 
-**Kuljit Singh** (Matriculation: 245884)  
+**Kuljit Singh**  
 GitHub: [kuljit-medtech](https://github.com/kuljit-medtech)
