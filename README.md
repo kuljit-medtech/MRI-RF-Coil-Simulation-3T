@@ -115,38 +115,25 @@ Visualises surface current density on the RF coil conductor.
 ## Field Map Results
 
 ### Transmit Field B1+
+<img src="Results/Export_B1p_XY_z0.png.png" width="300"/>
+<img src="Results/Export_B1p_XZ_y0.png.png" width="300"/>
+<img src="Results/Export_B1p_YZ_x0.png.png" width="300"/>
+<img src="Results/Export_B1p_XZ_ym10.png.png" width="300"/>
 
-**XY plane (z = 0 mm)**
-
-![B1p XY](Results/Export_B1p_XY_z0.png.png)
-
-**YZ plane (x = 0 mm)**
-
-![B1p YZ](Results/Export_B1p_YZ_x0.png.png)
-
----
+### Receive Field B1-
+<img src="Results/Export_B1m_XY_z0.png.png" width="300"/>
+<img src="Results/Export_B1m_XZ_y0.png.png" width="300"/>
+<img src="Results/Export_B1m_YZ_x0.png.png" width="300"/>
+<img src="Results/Export_B1m_XZ_ym10.png.png" width="300"/>
 
 ### SAR10g Distribution
-
-**XY plane (z = 0 mm)**
-
-![SAR XY](Results/Export_SAR_XY_z0.png.png)
-
-**XZ plane (y = -46 mm)**
-
-![SAR XZ](Results/Export_SAR_XZ_ym46.png.png)
-
----
+<img src="Results/Export_SAR_XY_z0.png.png" width="300"/>
+<img src="Results/Export_SAR_XZ_ym46.png.png" width="300"/>
+<img src="Results/Export_SAR_YZ_x0.png.png" width="300"/>
 
 ### Surface Current Density
-
-**3D scatter view**
-
-![JS 3D](Results/Export_JS_3D.png)
-
-**Top-down XZ view**
-
-![JS XZ](Results/Export_JS_XZ.png)
+<img src="Results/Export_JS_3D.png" width="300"/>
+<img src="Results/Export_JS_XZ.png" width="300"/>
 ---
 
 ## Physics Summary
