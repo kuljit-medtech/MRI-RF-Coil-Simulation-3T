@@ -118,11 +118,11 @@ Visualises surface current density on the RF coil conductor.
 
 **XY plane (z = 0 mm)**
 
-![B1p XY](Results/Export_B1p_XY_z0.png)
+![B1p XY](Results/Export_B1p_XY_z0.png.png)
 
 **YZ plane (x = 0 mm)**
 
-![B1p YZ](Results/Export_B1p_YZ_x0.png)
+![B1p YZ](Results/Export_B1p_YZ_x0.png.png)
 
 ---
 
@@ -130,11 +130,11 @@ Visualises surface current density on the RF coil conductor.
 
 **XY plane (z = 0 mm)**
 
-![SAR XY](Results/Export_SAR_XY_z0.png)
+![SAR XY](Results/Export_SAR_XY_z0.png.png)
 
 **XZ plane (y = -46 mm)**
 
-![SAR XZ](Results/Export_SAR_XZ_ym46.png)
+![SAR XZ](Results/Export_SAR_XZ_ym46.png.png)
 
 ---
 
