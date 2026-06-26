@@ -115,25 +115,24 @@ Visualises surface current density on the RF coil conductor.
 ## Field Map Results
 
 ### Transmit Field B1+
-<img src="Results/Export_B1p_XY_z0.png.png" width="300"/>
-<img src="Results/Export_B1p_XZ_y0.png.png" width="300"/>
-<img src="Results/Export_B1p_YZ_x0.png.png" width="300"/>
-<img src="Results/Export_B1p_XZ_ym10.png.png" width="300"/>
+| XY plane (z=0) | XZ plane (y=0) | YZ plane (x=0) | XZ plane (y=-10mm) |
+|---|---|---|---|
+| <img src="Results/Export_B1p_XY_z0.png.png" width="180"/> | <img src="Results/Export_B1p_XZ_y0.png.png" width="180"/> | <img src="Results/Export_B1p_YZ_x0.png.png" width="180"/> | <img src="Results/Export_B1p_XZ_ym10.png.png" width="180"/> |
 
 ### Receive Field B1-
-<img src="Results/Export_B1m_XY_z0.png.png" width="300"/>
-<img src="Results/Export_B1m_XZ_y0.png.png" width="300"/>
-<img src="Results/Export_B1m_YZ_x0.png.png" width="300"/>
-<img src="Results/Export_B1m_XZ_ym10.png.png" width="300"/>
+| XY plane (z=0) | XZ plane (y=0) | YZ plane (x=0) | XZ plane (y=-10mm) |
+|---|---|---|---|
+| <img src="Results/Export_B1m_XY_z0.png.png" width="180"/> | <img src="Results/Export_B1m_XZ_y0.png.png" width="180"/> | <img src="Results/Export_B1m_YZ_x0.png.png" width="180"/> | <img src="Results/Export_B1m_XZ_ym10.png.png" width="180"/> |
 
 ### SAR10g Distribution
-<img src="Results/Export_SAR_XY_z0.png.png" width="300"/>
-<img src="Results/Export_SAR_XZ_ym46.png.png" width="300"/>
-<img src="Results/Export_SAR_YZ_x0.png.png" width="300"/>
+| XY plane (z=0) | XZ plane (y=-46mm) | YZ plane (x=0) |
+|---|---|---|
+| <img src="Results/Export_SAR_XY_z0.png.png" width="180"/> | <img src="Results/Export_SAR_XZ_ym46.png.png" width="180"/> | <img src="Results/Export_SAR_YZ_x0.png.png" width="180"/> |
 
 ### Surface Current Density
-<img src="Results/Export_JS_3D.png" width="300"/>
-<img src="Results/Export_JS_XZ.png" width="300"/>
+| 3D Scatter View | Top-down XZ View |
+|---|---|
+| <img src="Results/Export_JS_3D.png" width="280"/> | <img src="Results/Export_JS_XZ.png" width="280"/> |
 ---
 
 ## Physics Summary
