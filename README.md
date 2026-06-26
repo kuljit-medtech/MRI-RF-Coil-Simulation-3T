@@ -116,20 +116,37 @@ Visualises surface current density on the RF coil conductor.
 
 ### Transmit Field B1+
 
-| XY plane (z = 0 mm) | YZ plane (x = 0 mm) |
-|---|---|
-| ![B1p XY](Results/Export_B1p_XY_z0.png) | ![B1p YZ](Results/Export_B1p_YZ_x0.png) |
+**XY plane (z = 0 mm)**
+
+![B1p XY](Results/Export_B1p_XY_z0.png)
+
+**YZ plane (x = 0 mm)**
+
+![B1p YZ](Results/Export_B1p_YZ_x0.png)
+
+---
 
 ### SAR10g Distribution
 
-| XY plane (z = 0 mm) | XZ plane (y = -46 mm) |
-|---|---|
-| ![SAR XY](Results/Export_SAR_XY_z0.png) | ![SAR XZ](Results/Export_SAR_XZ_ym46.png) |
+**XY plane (z = 0 mm)**
+
+![SAR XY](Results/Export_SAR_XY_z0.png)
+
+**XZ plane (y = -46 mm)**
+
+![SAR XZ](Results/Export_SAR_XZ_ym46.png)
+
+---
 
 ### Surface Current Density
 
+**3D scatter view**
+
 ![JS 3D](Results/Export_JS_3D.png)
 
+**Top-down XZ view**
+
+![JS XZ](Results/Export_JS_XZ.png)
 ---
 
 ## Physics Summary
